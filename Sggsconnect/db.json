@@ -1,0 +1,16 @@
+{
+    "posts":[
+        {
+            "username":"abhijit",
+            "password":"abhi@123"
+        },
+        {
+            "username":"abhijit",
+            "password":"abhi@123"
+        },
+        {
+            "username":"abhijit",
+            "password":"abhi@123"
+        }
+    ]
+}
